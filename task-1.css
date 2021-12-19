@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    line-height: 1.6;
+}
+
+.text-navy{
+    color: navy;
+}
+.text-orange{
+    color: orange;
+}
+
+.bg-navy{
+   background-color: navy;
+}
+.bg-orange{
+    background-color: orange;
+}
